@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="sample_command",
-    version="0.1.0",
+    version="0.2.0",
     author="chz100p",
     author_email="chz100p@live.jp",
     description="You can receive the message 'Hello!!!'",
